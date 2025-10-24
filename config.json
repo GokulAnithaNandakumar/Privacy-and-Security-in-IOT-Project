@@ -1,0 +1,23 @@
+{
+  "blockchain_url": "demo",
+  "private_key": null,
+  "contract_address": null,
+  "num_rooms": 4,
+  "sensors_per_room": 5,
+  "data_collection_interval": 15,
+  "privacy_epsilon": 1.0,
+  "k_anonymity_level": 3,
+  "ml_training_threshold": 50,
+  "project_info": {
+    "title": "IoT-Based Privacy-Preserving Data Management with Blockchain Integration and ML Intrusion Detection",
+    "course": "Privacy and Security in IoT",
+    "features": [
+      "Real Ethereum blockchain integration",
+      "Privacy preservation (Differential Privacy, K-Anonymity, AES-256)",
+      "Machine Learning intrusion detection (Isolation Forest)",
+      "Real-time IoT sensor simulation",
+      "MQTT communication protocol",
+      "Interactive monitoring dashboard"
+    ]
+  }
+}

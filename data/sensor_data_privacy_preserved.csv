@@ -1,0 +1,4 @@
+timestamp,sensor_id,room,sensor_type,value
+2025-09-05T21:14:38.047840,Room_Test_temperature_manual,Room_Test,temperature,26.007329653166103
+2025-09-05T21:14:50.680604,Room_Kitchen_humidity_manual,Room_Kitchen,humidity,68.05330272583618
+2025-09-05T21:16:23.116734,Room_Garage_motion_manual,Room_Garage,motion,-3.3093726549746973

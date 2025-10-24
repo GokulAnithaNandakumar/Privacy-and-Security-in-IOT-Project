@@ -1,0 +1,64 @@
+{
+  "basic_stats": {
+    "total_records": 492,
+    "time_range": {
+      "start": "2025-08-29T20:39:42.548269",
+      "end": "2025-08-29T23:38:42.548269"
+    },
+    "unique_rooms": 2,
+    "unique_sensors": 10,
+    "sensor_types": [
+      "motion",
+      "air_quality",
+      "humidity",
+      "temperature",
+      "light"
+    ]
+  },
+  "sensor_stats": {
+    "motion": {
+      "count": 360,
+      "mean": 0.20277777777777778,
+      "std": 0.4026279350726891,
+      "min": 0.0,
+      "max": 1.0,
+      "median": 0.0
+    },
+    "air_quality": {
+      "count": 12,
+      "mean": 20.46,
+      "std": 6.717503594748167,
+      "min": 11.04,
+      "max": 31.2,
+      "median": 20.58
+    },
+    "humidity": {
+      "count": 24,
+      "mean": 50.743750000000006,
+      "std": 7.1225214224348585,
+      "min": 42.4,
+      "max": 70.12,
+      "median": 49.849999999999994
+    },
+    "temperature": {
+      "count": 24,
+      "mean": 21.11,
+      "std": 0.6545891509349502,
+      "min": 19.71,
+      "max": 22.21,
+      "median": 21.060000000000002
+    },
+    "light": {
+      "count": 72,
+      "mean": 95.9376388888889,
+      "std": 89.84899906161897,
+      "min": 0.0,
+      "max": 288.88,
+      "median": 62.075
+    }
+  },
+  "room_stats": {
+    "Room_1": 246,
+    "Room_2": 246
+  }
+}

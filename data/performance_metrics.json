@@ -1,0 +1,7 @@
+{
+  "total_readings": 99,
+  "intrusions_detected": 16,
+  "intrusion_rate": 0.16161616161616163,
+  "avg_confidence": 0.7918466487670838,
+  "confidence_std": 0.29573462333516587
+}

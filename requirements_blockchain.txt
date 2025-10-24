@@ -1,0 +1,33 @@
+# Real Blockchain IoT Privacy & Security Project Requirements
+# Subject: Privacy and Security in IoT
+
+# Core blockchain dependencies
+web3==6.11.3
+eth-account==0.10.0
+py-solc-x==1.12.0
+
+# IoT and MQTT
+paho-mqtt==1.6.1
+pycryptodome==3.19.0
+
+# Machine Learning for Intrusion Detection
+scikit-learn==1.3.2
+numpy==1.24.3
+pandas==2.1.4
+
+# Privacy preservation
+cryptography==41.0.8
+differential-privacy==1.1.0
+
+# Data visualization
+streamlit==1.28.2
+plotly==5.17.0
+matplotlib==3.8.2
+
+# Development and testing
+pytest==7.4.3
+python-dotenv==1.0.0
+
+# Ethereum development (if using local blockchain)
+ganache-cli==6.12.2
+truffle==0.1.77

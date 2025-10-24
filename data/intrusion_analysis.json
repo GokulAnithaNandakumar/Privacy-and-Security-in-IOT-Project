@@ -1,0 +1,24 @@
+{
+  "total_intrusions": 16,
+  "intrusion_rate": 0.16161616161616163,
+  "intrusions_by_room": {
+    "Room_2": 9,
+    "Room_1": 7
+  },
+  "intrusions_by_sensor_type": {
+    "light": 6,
+    "temperature": 4,
+    "humidity": 4,
+    "air_quality": 2
+  },
+  "intrusions_by_hour": {
+    "23": 16
+  },
+  "most_suspicious_sensors": {
+    "Room_2_light_001": 4,
+    "Room_2_temp_001": 2,
+    "Room_2_humidity_001": 2,
+    "Room_1_temp_001": 2,
+    "Room_1_humidity_001": 2
+  }
+}
